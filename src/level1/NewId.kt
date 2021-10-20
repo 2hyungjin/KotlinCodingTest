@@ -1,4 +1,4 @@
-package codingtest
+package level1.level1
 
 class Solution {
     fun solution(new_id: String): String {

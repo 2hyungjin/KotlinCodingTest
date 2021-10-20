@@ -1,4 +1,4 @@
-package codingtest
+package level1.level1
 
 fun solution(a: IntArray, b: IntArray): Int {
     var answer: Int = 0

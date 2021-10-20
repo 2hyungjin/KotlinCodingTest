@@ -1,4 +1,4 @@
-//package codingtest
+package level1.level1//package codingtest
 //
 //var answerBuilder = StringBuilder()
 //val leftArray = intArrayOf(1, 4, 7, 10)
@@ -39,7 +39,7 @@
 //    }
 //}
 //
-//fun solution(numbers: IntArray, hand: String): String {
+//fun codingtest.solution(numbers: IntArray, hand: String): String {
 //    var answer = ""
 //
 //    var leftHand: Hand = Hand('L', 10, Direction.LEFT)
@@ -69,6 +69,6 @@
 //    return answerBuilder.toString()
 //}
 //
-//fun main() {
-//    println(solution(intArrayOf(1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5), "right"))
+//fun codingtest.main() {
+//    println(codingtest.solution(intArrayOf(1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5), "right"))
 //}

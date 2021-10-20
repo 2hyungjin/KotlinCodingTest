@@ -1,12 +1,12 @@
-//package codingtest
+package level1.level1//package codingtest
 //
-//fun main() {
-//    val s = Solution()
-//    println(s.solution(intArrayOf(44, 1, 0, 0, 31, 25), intArrayOf(31, 10, 45, 1, 6, 19)))
+//fun codingtest.main() {
+//    val s = codingtest.Solution()
+//    println(s.codingtest.solution(intArrayOf(44, 1, 0, 0, 31, 25), intArrayOf(31, 10, 45, 1, 6, 19)))
 //}
 //
-//class Solution {
-//    fun solution(lottos: IntArray, win_nums: IntArray): IntArray {
+//class codingtest.Solution {
+//    fun codingtest.solution(lottos: IntArray, win_nums: IntArray): IntArray {
 //        var answer: IntArray = intArrayOf()
 //
 //        var rightAnswer = 0

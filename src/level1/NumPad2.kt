@@ -1,4 +1,4 @@
-package codingtest
+package level1.level1
 
 data class NumPad(var location: Pair<Int, Int>) {
     operator fun minus(other: NumPad): Int {

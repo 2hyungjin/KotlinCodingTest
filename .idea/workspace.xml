@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c74e1a5-fd1b-41d6-a331-17022ff89df9" name="Changes" comment="" />
+    <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/Hand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/NewIdKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/NumPad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/NumPad2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/NumberAndEnglishKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/codingtest/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddNumberNotExisted.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewId.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumPad.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumPad2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberAndEnglish.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lottos.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1zjFYwIvWybpatj27EzF8XRLoMC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,11 +33,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="NumPad2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.NumPad2Kt" />
+  <component name="RunManager" selected="Kotlin.ExampleKt">
+    <configuration name="AddingSignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.level1.AddingSignKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.ExampleKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -32,19 +54,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.NumPad2Kt" />
+        <item itemvalue="Kotlin.ExampleKt" />
+        <item itemvalue="Kotlin.AddingSignKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c74e1a5-fd1b-41d6-a331-17022ff89df9" name="Changes" comment="" />
-      <created>1634653640665</created>
+      <changelist id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="" />
+      <created>1634697316343</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634653640665</updated>
-      <workItem from="1634653704270" duration="489000" />
+      <updated>1634697316343</updated>
+      <workItem from="1634697318192" duration="28000" />
     </task>
     <servers />
   </component>
