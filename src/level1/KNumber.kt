@@ -4,7 +4,6 @@ fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
     var answer = mutableListOf<Int>()
     commands.forEach {
         val range = it[0]..it[1]
-        array.slice(range)
         val temp = array.filterIndexed { index, i ->
             index + 1 in range
         }.sorted()

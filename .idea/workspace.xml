@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/IsPrime.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level1/KNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/GymSuit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/TestExam.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/ExampleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/KNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/KNumberKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/IsPrime.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/KNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/KNumber.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.KNumberKt">
+  <component name="RunManager" selected="Kotlin.TestExamKt">
     <configuration name="AddingSignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.level1.AddingSignKt" />
       <module name="KotlinCodingTest" />
@@ -64,6 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GymSuitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.GymSuitKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.KNumberKt" />
       <module name="KotlinCodingTest" />
@@ -71,8 +80,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestExamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.TestExamKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestExamKt" />
+        <item itemvalue="Kotlin.GymSuitKt" />
         <item itemvalue="Kotlin.KNumberKt" />
         <item itemvalue="Kotlin.ExampleKt" />
         <item itemvalue="Kotlin.AddingSignKt" />
@@ -87,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
-      <workItem from="1634697318192" duration="4188000" />
+      <workItem from="1634697318192" duration="11885000" />
     </task>
     <servers />
   </component>
