@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/GymSuit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level1/TestExam.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/KNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/KNumberKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/IsPrime.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/KNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/KNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/TestExamKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/TestExamKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -31,6 +30,7 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectId" id="1zyXynwjq12nVrVCogM31u43YfC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -42,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,16 +52,16 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TestExamKt">
-    <configuration name="AddingSignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.level1.AddingSignKt" />
+  <component name="RunManager" selected="Kotlin.FailureRateKt">
+    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.ExampleKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.ExampleKt" />
+    <configuration name="FailureRateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.FailureRateKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FailureRateKt" />
         <item itemvalue="Kotlin.TestExamKt" />
         <item itemvalue="Kotlin.GymSuitKt" />
         <item itemvalue="Kotlin.KNumberKt" />
         <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.AddingSignKt" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
-      <workItem from="1634697318192" duration="11885000" />
+      <workItem from="1634697318192" duration="13995000" />
+      <workItem from="1635121561550" duration="601000" />
     </task>
     <servers />
   </component>
@@ -122,6 +124,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
