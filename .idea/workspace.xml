@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/level1/ReversedTenary.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/TestExamKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/TestExamKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="601000" />
+      <workItem from="1635121561550" duration="1537000" />
     </task>
     <servers />
   </component>
