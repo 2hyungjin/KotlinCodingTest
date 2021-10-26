@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/level1/GettingDay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/GettingDay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/DayOf2006.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/FailureRateKt$solution$$inlined$sortBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/FailureRateKt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +54,9 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FailureRateKt">
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.ExampleKt" />
+  <component name="RunManager" selected="Kotlin.DayOf2016Kt">
+    <configuration name="DayOf2016Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.DayOf2016Kt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DayOf2016Kt" />
         <item itemvalue="Kotlin.FailureRateKt" />
         <item itemvalue="Kotlin.TestExamKt" />
         <item itemvalue="Kotlin.GymSuitKt" />
         <item itemvalue="Kotlin.KNumberKt" />
-        <item itemvalue="Kotlin.ExampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="3419000" />
+      <workItem from="1635121561550" duration="4091000" />
     </task>
     <servers />
   </component>
@@ -131,6 +135,14 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/level1/DayOf2006.kt</url>
+          <line>13</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
