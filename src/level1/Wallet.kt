@@ -15,11 +15,8 @@ class Solution {
 
 
         sizes.forEach { size ->
-            val x = size[0]
-            val y = size[1]
-
-            maxX = if (x > y) x else y
-            maxY = if (x < y) x else y
+            maxX = size.maxOrNull()!!
+            maxY = size.minOrNull()!!
         }
         return maxX * maxY
     }
