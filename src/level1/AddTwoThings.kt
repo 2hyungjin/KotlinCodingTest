@@ -7,6 +7,8 @@ fun addTwoThings(numbers: IntArray): IntArray {
             val sum= numbers[i]+num
             if(!answer.contains(sum))answer+=sum
         }
+
     }
+
     return answer.sorted().toIntArray()
 }
