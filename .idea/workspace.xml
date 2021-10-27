@@ -39,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -50,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DayOf2016Kt">
+  <component name="RunManager" selected="Kotlin.LackedMoneyKt">
     <configuration name="DayOf2016Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.DayOf2016Kt" />
       <module name="KotlinCodingTest" />
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.KNumberKt" />
+    <configuration name="LackedMoneyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.LackedMoneyKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LackedMoneyKt" />
         <item itemvalue="Kotlin.DayOf2016Kt" />
         <item itemvalue="Kotlin.FailureRateKt" />
         <item itemvalue="Kotlin.TestExamKt" />
         <item itemvalue="Kotlin.GymSuitKt" />
-        <item itemvalue="Kotlin.KNumberKt" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="4779000" />
+      <workItem from="1635121561550" duration="5309000" />
     </task>
     <servers />
   </component>
