@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/CaesarCipher.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/AddDigit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/SortingStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/SortingStringKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/StrangeString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/StrangeString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,14 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SortingStringKt">
+  <component name="RunManager" selected="Kotlin.AddDigitKt">
+    <configuration name="AddDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.AddDigitKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOf2016Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.DayOf2016Kt" />
       <module name="KotlinCodingTest" />
@@ -81,20 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.TestExamKt" />
-      <module name="KotlinCodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AddDigitKt" />
         <item itemvalue="Kotlin.SortingStringKt" />
         <item itemvalue="Kotlin.LackedMoneyKt" />
         <item itemvalue="Kotlin.DayOf2016Kt" />
         <item itemvalue="Kotlin.FailureRateKt" />
-        <item itemvalue="Kotlin.TestExamKt" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="12147000" />
+      <workItem from="1635121561550" duration="12778000" />
     </task>
     <servers />
   </component>

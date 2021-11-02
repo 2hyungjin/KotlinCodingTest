@@ -13,4 +13,3 @@ fun makeStrangeString(s:String): String {
     }
     return answer
 }
-}
