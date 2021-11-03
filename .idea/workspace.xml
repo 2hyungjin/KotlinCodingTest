@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/AddDigit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/ReverseNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/sortDesc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/SortingStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/level1/SortingStringKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/StrangeString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/StrangeString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AddDigitKt">
+  <component name="RunManager" selected="Kotlin.SortDescKt">
     <configuration name="AddDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.AddDigitKt" />
       <module name="KotlinCodingTest" />
@@ -70,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FailureRateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.FailureRateKt" />
+    <configuration name="LackedMoneyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.LackedMoneyKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LackedMoneyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.LackedMoneyKt" />
+    <configuration name="SortDescKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.SortDescKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SortDescKt" />
         <item itemvalue="Kotlin.AddDigitKt" />
         <item itemvalue="Kotlin.SortingStringKt" />
         <item itemvalue="Kotlin.LackedMoneyKt" />
         <item itemvalue="Kotlin.DayOf2016Kt" />
-        <item itemvalue="Kotlin.FailureRateKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="12778000" />
+      <workItem from="1635121561550" duration="14288000" />
     </task>
     <servers />
   </component>
