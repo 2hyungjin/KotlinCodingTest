@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level1/addArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/functionDeveloping.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AddArrayKt">
+  <component name="RunManager" selected="Kotlin.FunctionDevelopingKt">
     <configuration name="AddArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.AddArrayKt" />
       <module name="KotlinCodingTest" />
@@ -62,6 +62,13 @@
     </configuration>
     <configuration name="AddDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.AddDigitKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionDevelopingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.FunctionDevelopingKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.SortingStringKt" />
-      <module name="KotlinCodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionDevelopingKt" />
         <item itemvalue="Kotlin.AddArrayKt" />
         <item itemvalue="Kotlin.RemoveMinKt" />
         <item itemvalue="Kotlin.SortDescKt" />
         <item itemvalue="Kotlin.AddDigitKt" />
-        <item itemvalue="Kotlin.SortingStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634697316343</updated>
       <workItem from="1634697318192" duration="13995000" />
-      <workItem from="1635121561550" duration="17701000" />
+      <workItem from="1635121561550" duration="19745000" />
+      <workItem from="1641796559429" duration="1331000" />
     </task>
     <servers />
   </component>
@@ -133,14 +134,6 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/level1/addArray.kt</url>
-          <line>12</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
