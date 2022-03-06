@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level2/NLcm.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/JadenCase.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,14 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NLcmKt">
+  <component name="RunManager" selected="Kotlin.JadenCaseKt">
+    <configuration name="JadenCaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.JadenCaseKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NLcmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level2.NLcmKt" />
       <module name="KotlinCodingTest" />
@@ -74,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1789Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy._1789Kt" />
-      <module name="KotlinCodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2864Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy._2864Kt" />
       <module name="KotlinCodingTest" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.JadenCaseKt" />
         <item itemvalue="Kotlin.NLcmKt" />
         <item itemvalue="Kotlin.TupleKt" />
         <item itemvalue="Kotlin._2864Kt" />
         <item itemvalue="Kotlin._1049Kt" />
-        <item itemvalue="Kotlin._1789Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +108,7 @@
       <workItem from="1634697318192" duration="13995000" />
       <workItem from="1635121561550" duration="19745000" />
       <workItem from="1641796559429" duration="10994000" />
-      <workItem from="1646289016376" duration="2658000" />
+      <workItem from="1646289016376" duration="3349000" />
     </task>
     <servers />
   </component>
@@ -135,6 +134,14 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/level2/NLcm.kt</url>
+          <line>19</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
