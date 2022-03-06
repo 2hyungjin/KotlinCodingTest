@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level2/JadenCase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/ZipString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.JadenCaseKt">
+  <component name="RunManager" selected="Kotlin.ZipStringKt">
     <configuration name="JadenCaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level2.JadenCaseKt" />
       <module name="KotlinCodingTest" />
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1049Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy._1049Kt" />
+    <configuration name="ZipStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.ZipStringKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ZipStringKt" />
         <item itemvalue="Kotlin.JadenCaseKt" />
         <item itemvalue="Kotlin.NLcmKt" />
         <item itemvalue="Kotlin.TupleKt" />
         <item itemvalue="Kotlin._2864Kt" />
-        <item itemvalue="Kotlin._1049Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +108,7 @@
       <workItem from="1634697318192" duration="13995000" />
       <workItem from="1635121561550" duration="19745000" />
       <workItem from="1641796559429" duration="10994000" />
-      <workItem from="1646289016376" duration="3349000" />
+      <workItem from="1646289016376" duration="4477000" />
     </task>
     <servers />
   </component>
@@ -141,6 +141,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/level2/ZipString.kt</url>
+          <line>35</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
