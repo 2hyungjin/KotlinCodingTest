@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level2/Maximum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/Dictionary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/MaximizeExpression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinCodingTest/META-INF/KotlinCodingTest.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -53,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MaximumKt">
+  <component name="RunManager" selected="Kotlin.MaximizeExpressionKt">
     <configuration name="FindPrimeNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level2.FindPrimeNumberKt" />
       <module name="KotlinCodingTest" />
@@ -68,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.MaximumKt" />
+    <configuration name="MaximizeExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximizeExpressionKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NLcmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.NLcmKt" />
+    <configuration name="MaximumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.MaximumKt" />
       <module name="KotlinCodingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MaximizeExpressionKt" />
         <item itemvalue="Kotlin.MaximumKt" />
         <item itemvalue="Kotlin.FindPrimeNumberKt" />
         <item itemvalue="Kotlin.ZipStringKt" />
         <item itemvalue="Kotlin.JadenCaseKt" />
-        <item itemvalue="Kotlin.NLcmKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,8 @@
       <workItem from="1634697318192" duration="13995000" />
       <workItem from="1635121561550" duration="19745000" />
       <workItem from="1641796559429" duration="10994000" />
-      <workItem from="1646289016376" duration="8384000" />
+      <workItem from="1646289016376" duration="10770000" />
+      <workItem from="1649040851807" duration="3243000" />
     </task>
     <servers />
   </component>
