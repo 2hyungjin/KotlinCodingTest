@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e972df36-09e8-466f-a32f-a0ecd366cb8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level2/Carpet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/Carpet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/level2/Carpet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,14 @@
       <recent name="$PROJECT_DIR$/src/level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MenuRenewalKt">
+  <component name="RunManager" selected="Kotlin.CarpetKt">
+    <configuration name="CarpetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.CarpetKt" />
+      <module name="KotlinCodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindPrimeNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level2.FindPrimeNumberKt" />
       <module name="KotlinCodingTest" />
@@ -81,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.ZipStringKt" />
-      <module name="KotlinCodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CarpetKt" />
         <item itemvalue="Kotlin.MenuRenewalKt" />
         <item itemvalue="Kotlin.MaximizeExpressionKt" />
         <item itemvalue="Kotlin.MaximumKt" />
         <item itemvalue="Kotlin.FindPrimeNumberKt" />
-        <item itemvalue="Kotlin.ZipStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,7 @@
       <workItem from="1635121561550" duration="19745000" />
       <workItem from="1641796559429" duration="10994000" />
       <workItem from="1646289016376" duration="10770000" />
-      <workItem from="1649040851807" duration="6409000" />
+      <workItem from="1649040851807" duration="7631000" />
     </task>
     <servers />
   </component>
